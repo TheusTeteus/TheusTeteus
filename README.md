@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Matheus Rocha. I'm a front-end developer and a beginner in back-end studies. Nowadays I'm working with web development (client side) and process management as I go on with my studies on Python simultaneously.
+- 👋 Hi, I’m Matheus Rocha. I'm a front-end developer and a beginner in back-end studies. Nowadays I'm working with web development (client side) and process management as I keep up with my studies on Python simultaneously.
 - 👀 Furthermore, I have interests in Data Science knowledgement - such as Machine Learning and BI - Databases issues and containers as well. 
 - 👀 Here I am to help people to enhance themselves. Enjoy ourselves new projects!
 
